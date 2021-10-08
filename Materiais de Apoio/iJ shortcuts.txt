@@ -1,0 +1,10 @@
+ctor   -    alt + insert
+
+comment line    -    ctrl + numpad/        
+{comment line    -    ctrl + ~}
+
+comment block    -    ctrl +shift + numpad/
+{comment block    -    ctrl +shift + ~}
+
+
+select word     -     shift + ctlr + l/r arrows
