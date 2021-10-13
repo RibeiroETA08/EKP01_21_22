@@ -1,0 +1,9 @@
+git clone https:\\.......
+
+git add -A
+
+git commit -m "........"
+
+git push
+
+git pull
